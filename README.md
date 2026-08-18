@@ -67,23 +67,6 @@ Se eliminó la dependencia multivaluada de `tecnologia_clave`. Para eso se crear
 
 5. Se usó `InnoDB` para soportar claves foráneas y transacciones.
 
-## Scripts
-
-- DDL: `sql/01_ddl/`
-- DML: `sql/02_dml/`
-- DQL: `sql/03_dql/`
-- Prácticas REVIEW: `sql/04_review/`
-
-## Commits
-
-Se recomienda hacer un commit por cada tabla:
-
-- `feat(desarrolladores): agrega DDL y DML de desarrolladores`
-- `feat(modulos): agrega DDL y DML de módulos`
-- `feat(tecnologias): agrega DDL y DML de tecnologías`
-- `feat(modulo_tecnologia): agrega DDL y DML de relación módulo-tecnología`
-- `feat(inscripciones): agrega DDL y DML de inscripciones`
-
 ## Conclusión
 
 La base de datos quedó normalizada hasta 4FN y lista para ser usada en MySQL Workbench. Además, se prepararon scripts para practicar procedimientos, funciones, triggers, eventos, particiones, consultas preparadas y usuarios.
