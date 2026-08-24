@@ -1,4 +1,4 @@
-USE db_capacitaciones_dev;
+USE db_capacitaciones;
 
 
 INSERT INTO desarrolladores (id_dev, nombre_dev, nivel) 
