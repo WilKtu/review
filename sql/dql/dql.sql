@@ -1,4 +1,4 @@
-USE db_capacitaciones_dev;
+USE db_capacitaciones;
 
 -- =====================================================
 -- Consulta 1: INNER JOIN
