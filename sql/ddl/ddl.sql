@@ -4,9 +4,9 @@
 -- Herramienta: MySQL Workbench
 -- =====================================================
 
-CREATE DATABASE IF NOT EXISTS db_capacitaciones_dev;
+CREATE DATABASE IF NOT EXISTS db_capacitaciones;
 
-USE db_capacitaciones_dev;
+USE db_capacitaciones;
 
 -- =====================================================
 -- Tabla: desarrolladores
